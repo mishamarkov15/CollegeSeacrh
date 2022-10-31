@@ -12,7 +12,7 @@ class MyMainWindow(QMainWindow):
         grid = QGridLayout()
 
         btn = QPushButton("Push me")
-        btn2 = QPushButton("Push me 2!!!!")
+        btn2 = QPushButton("Push me PRO!!!!")
 
         grid.addWidget(btn, 0, 0, 1, 2)
         grid.addWidget(btn2, 1, 1, 1, 1)
